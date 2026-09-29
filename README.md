@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Consent-Management-Platform"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Consent-Management-Platform?style=flat-square" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Consent-Management-Platform"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Consent-Management-Platform?style=flat-square" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Consent-Management-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Consent-Management-Platform?style=flat-square" alt="GitHub forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Consent-Management-Platform/stargazers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -62,7 +62,7 @@ Below is a comparative breakdown of leading enterprise and SMB Consent Managemen
 
 ## 💻 Open-Source GitHub Projects
 
-Curated list of self-hosted, developer-first open-source consent management libraries and cookie banners. Sorted by **GitHub star count (descending)**:
+Curated list of self-hosted, developer-first open-source consent management libraries and cookie banners. Sorted by **GitHub Stars_Count (descending)**:
 
 * [![](https://img.shields.io/github/stars/orestbida/cookieconsent?style=social&color=white)](https://github.com/orestbida/cookieconsent/stargazers) **[vanilla-cookieconsent](https://github.com/orestbida/cookieconsent)** 🌟  
   A lightweight, ultra-fast, cross-browser cookie consent plugin written in pure vanilla JavaScript. Features multi-language support, customizable modal UI, auto-blocking scripts, and zero dependencies. High performance & compliance-ready. **MIT License**.
