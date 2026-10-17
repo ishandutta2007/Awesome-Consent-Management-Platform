@@ -57,6 +57,7 @@ Below is a comparative breakdown of leading enterprise and SMB Consent Managemen
 | **[Iubenda](https://www.iubenda.com/)** 📜 | **$15M - $20M** revenue | $5.99 / site / month | 🆓 Free Tier limited to 25,000 pageviews/mo & basic cookie policy | Italian legal tech platform providing cookie banners, privacy policy generation, terms of service, and consent solution bundles. |
 | **[CookieYes](https://www.cookieyes.com/)** 🍪 | **$10M - $15M** revenue | $10 / domain / month (Basic Plan) | 🆓 Free Plan for 1 domain up to 5,000 pageviews/month | Popular, lightweight CMP offering automated cookie scanning, customizable banners, and full Google Consent Mode v2 support. |
 | **[Termly](https://termly.io/)** 📑 | **$5M - $10M** revenue | $14 / site / month (Billed annually) | 🆓 Free Plan for 1 website up to 10,000 monthly site visits | All-in-one compliance platform for SMBs providing cookie consent banners, privacy policy generators, and Terms of Service tools. |
+| **[Arqam360](https://arqam360.com/)** 🌍 | Early-stage (founded 2024) | $29.99 / month (Pro, 3 domains) | 🆓 Free Plan for 1 domain up to 10,000 pageviews/month | Consent platform for Saudi Arabia, the UAE and the wider Middle East: banner written natively in Arabic (RTL) and English, Saudi PDPL / UAE PDPL / GDPR rules applied by visitor country, Google Consent Mode v2, consent records, and apps for Shopify, Zid and WordPress. |
 
 ---
 
